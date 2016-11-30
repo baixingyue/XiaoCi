@@ -1,8 +1,6 @@
 package com.shannon.xiaoci.main.view.inter;
 
-/**
- * Created by Anchor on 2016/4/14.
- */
+
 public interface CollectionViewInter {
 
 

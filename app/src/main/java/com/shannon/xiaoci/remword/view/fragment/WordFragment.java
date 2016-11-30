@@ -13,9 +13,7 @@ import com.shannon.xiaoci.R;
 import com.shannon.xiaoci.main.model.bean.Word;
 import com.shannon.xiaoci.main.model.dao.DicCollectionDao;
 
-/**
- * Created by shann on 2016/4/16.
- */
+
 public class WordFragment extends Fragment{
 
 

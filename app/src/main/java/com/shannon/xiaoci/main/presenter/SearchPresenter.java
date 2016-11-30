@@ -8,9 +8,6 @@ import com.shannon.xiaoci.main.model.bean.Word;
 import com.shannon.xiaoci.main.view.activity.MainActivity;
 import com.shannon.xiaoci.main.view.inter.SearchViewInter;
 
-/**
- * Created by Shannon on 2016/4/9.
- */
 public class SearchPresenter {
 
 

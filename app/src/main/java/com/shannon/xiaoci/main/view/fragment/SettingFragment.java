@@ -13,9 +13,7 @@ import com.shannon.xiaoci.R;
 import com.shannon.xiaoci.main.view.activity.AboutActivity;
 import com.shannon.xiaoci.remword.view.activity.RemWordActivity;
 
-/**
- * Created by Administrator on 2016/4/9 0009.
- */
+
 public class SettingFragment extends Fragment implements View.OnClickListener{
 
 

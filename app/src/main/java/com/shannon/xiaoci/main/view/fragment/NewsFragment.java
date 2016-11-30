@@ -19,9 +19,7 @@ import com.shannon.xiaoci.main.model.bean.News;
 
 import java.util.ArrayList;
 
-/**
- * Created by Administrator on 2016/4/9 0009.
- */
+
 public class NewsFragment extends Fragment{
 
     private RecyclerView fm_rlv_news;

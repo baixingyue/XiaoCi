@@ -4,9 +4,7 @@ import android.database.Cursor;
 
 import com.shannon.xiaoci.main.model.bean.Word;
 
-/**
- * Created by Shannon on 2016/4/9.
- */
+
 public interface SearchViewInter {
 
     //显示查找的结果

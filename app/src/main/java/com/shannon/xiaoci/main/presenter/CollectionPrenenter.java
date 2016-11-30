@@ -6,9 +6,6 @@ import com.shannon.xiaoci.main.model.dao.DicCollectionDao;
 import com.shannon.xiaoci.main.view.activity.MainActivity;
 import com.shannon.xiaoci.main.view.inter.CollectionViewInter;
 
-/**
- * Created by Anchor on 2016/4/14.
- */
 public class CollectionPrenenter {
 
 

@@ -2,7 +2,7 @@ package com.shannon.xiaoci.main.model.bean;
 
 /**
  * 从网络获取到的新闻
- * Created by Shannon on 2016/4/10.
+ *
  */
 public class News {
 

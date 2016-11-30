@@ -14,9 +14,7 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-/**
- * Created by Shannon on 2016/4/10.
- */
+
 public class NewsModel {
 
 

@@ -8,9 +8,6 @@ import android.view.ViewGroup;
 import android.widget.CursorAdapter;
 import android.widget.TextView;
 
-/**
- * Created by Shannon on 2016/4/9.
- */
 public class DictionaryAdapter extends CursorAdapter{
 
 
