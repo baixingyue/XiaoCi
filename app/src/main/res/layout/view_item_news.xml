@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    app:cardUseCompatPadding="true"
+    card_view:cardCornerRadius="10dp"
+    card_view:cardElevation="24dp"
+    card_view:contentPadding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:scaleType="centerCrop"
+            android:src="@mipmap/cover_news"
+            android:id="@+id/vin_iv_cover"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/image_height" />
+
+
+        <TextView
+            android:id="@+id/vin_tv_title"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:singleLine="true"
+            android:textSize="18sp"
+            android:text="太毒舌：柯以敏被取消2016超女评委资格"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+        <TextView
+            android:id="@+id/vin_tv_describle"
+            android:text="The Chinese singing contest Super Girl 2016  terminated singer Mindy Quah as one of the judges on April 1 as she insulted a contestant in a mass audition in March"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</android.support.v7.widget.CardView>
+

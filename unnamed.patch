@@ -1,0 +1,16 @@
+Index: app/src/main/java/com/shannon/xiaoci/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/shannon/xiaoci/MainActivity.java	(date 1460182247000)
++++ app/src/main/java/com/shannon/xiaoci/MainActivity.java	(date 1460182995000)
+@@ -147,7 +147,7 @@
+         }
+ 
+ 
+-        //添加选项卡
++        //添加
+         @Override
+         public CharSequence getPageTitle(int position) {
+             switch (position) {

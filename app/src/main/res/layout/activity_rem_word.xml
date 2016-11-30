@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipChildren="false"
+    tools:context="com.shannon.xiaoci.remword.view.activity.RemWordActivity">
+
+
+
+    <android.support.v4.view.ViewPager
+        android:clipChildren="false"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:id="@+id/arw_vp_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+
+
+    </android.support.v4.view.ViewPager>
+
+
+
+
+
+</RelativeLayout>

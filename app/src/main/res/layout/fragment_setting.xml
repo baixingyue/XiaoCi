@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+
+   <TextView
+       android:padding="10dp"
+       android:drawableRight="@mipmap/gd"
+       android:textSize="20sp"
+       android:text="开始记单词"
+       android:id="@+id/fs_tv_remember_word"
+       android:gravity="center_vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/colorWhite"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"></LinearLayout>
+
+    <TextView
+        android:id="@+id/fs_backup_collection"
+        android:drawableRight="@mipmap/gd"
+        android:textSize="20sp"
+        android:text="备份单词本"
+        android:padding="10dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/colorWhite"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"></LinearLayout>
+
+    <TextView
+        android:id="@+id/fs_tv_clear_cache"
+        android:drawableRight="@mipmap/gd"
+        android:textSize="20sp"
+        android:text="清除缓存"
+        android:padding="10dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/colorWhite"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"></LinearLayout>
+
+    <TextView
+        android:id="@+id/fs_tv_about"
+        android:drawableRight="@mipmap/gd"
+        android:textSize="20sp"
+        android:text="关于"
+        android:padding="10dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
